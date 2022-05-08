@@ -1,0 +1,5 @@
+{
+    "name": "Arun",
+    "version": "1.0.0",
+    "parameter": "menu:http://{SERVER}/msx/menu.json"
+}
